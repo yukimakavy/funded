@@ -1,0 +1,34 @@
+{
+  "problem_definition": {
+    "value": "",
+    "state": "unknown"
+  },
+  "insight_earned_secret": {
+    "value": "",
+    "state": "unknown"
+  },
+  "icp": {
+    "value": "",
+    "state": "unknown"
+  },
+  "severity_of_problem": {
+    "value": "",
+    "state": "unknown"
+  },
+  "frequency_of_problem": {
+    "value": "",
+    "state": "unknown"
+  },
+  "workaround": {
+    "value": "",
+    "state": "unknown"
+  },
+  "solution_description": {
+    "value": "",
+    "state": "unknown"
+  },
+  "why_superior": {
+    "value": "",
+    "state": "unknown"
+  }
+}

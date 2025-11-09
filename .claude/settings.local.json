@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(streamlit run:*)",
+      "Bash(python:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Startup pitch evaluation bot\n\n- Conversational pitch data collection with GPT-4o\n- Extracts problem, solution, and ICP from natural conversation\n- Investor-style evaluation with competitive analysis\n- Structured GTM analysis (organic/viral, paid acquisition, retention)\n- Real-time progress tracking in sidebar\n- Built with Streamlit and OpenAI API\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
